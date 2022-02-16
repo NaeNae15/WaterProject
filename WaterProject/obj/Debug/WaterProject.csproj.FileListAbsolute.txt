@@ -1,0 +1,2 @@
+/Users/janae/Projects/WaterProject/WaterProject/obj/Debug/WaterProject.csproj.AssemblyReference.cache
+/Users/janae/Projects/WaterProject/WaterProject/obj/Debug/WaterProject.csproj.CoreCompileInputs.cache
